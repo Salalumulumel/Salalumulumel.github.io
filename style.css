@@ -1,0 +1,29 @@
+/*en kom*/
+
+body{
+    background-color: antiquewhite;
+    color: white;
+}
+
+div {
+    background-color: brown;
+    border-radius: 14px;
+    width: fit-content;
+    margin: auto;
+    float:inherit;
+    align-items: center;
+    text-align: center;
+}
+
+h1 {
+    padding: 30px;
+}
+
+img {
+    size: 50%;
+    display: block;
+    margin: auto;
+    padding: 2%;
+    border-radius: 220px;
+    background-color: black;
+}
