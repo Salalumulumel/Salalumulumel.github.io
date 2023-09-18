@@ -1,0 +1,7 @@
+//definierar klass
+
+
+
+class JokehandlerRequest {
+
+}
