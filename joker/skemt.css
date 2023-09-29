@@ -5,12 +5,15 @@ body {
 
 
 img{
-    height: 300px;
+    height: 65%;
+    width: 70%;
     margin: auto;
     border-radius: 5%;
     background-color: #D0BFFF;
     padding: 2%;
 }
+
+
 
 
 .inner_div{

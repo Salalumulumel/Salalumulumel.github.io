@@ -35,13 +35,19 @@ body {
 
 .dropdown_content a:hover {
     background-color: #e3bdbd;
+    transition: ease-in;
+    transition-duration: 1s;
 }
 
 .dropdown:hover .dropdown_content {
     display: block;
+    transition: ease-in;
+    transition-duration: 0.5s;
 }
 
 
 .dropdown:hover .dropbtn {
     background-color: #d68e83;
+    transition: ease;
+    transition-duration: 1s;
 }
