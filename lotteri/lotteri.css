@@ -1,0 +1,30 @@
+.main_div {
+    display: block;
+    background-color: palevioletred;
+    margin: auto;
+    margin-top: 7%;
+    padding: 1%;
+    width: 40%;
+    float: inherit;
+    text-align: center;
+    border-radius: 12px;
+}
+
+button {
+    border-radius: 12px;
+    background-color: aquamarine;
+}
+
+body {
+    color: black;
+    font-size: large;
+    font-family: sans-serif;
+}
+
+input {
+    border-radius: 12px;
+}
+
+button:hover {
+    background-color: rgb(110, 248, 202);
+}
